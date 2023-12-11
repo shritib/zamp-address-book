@@ -1,0 +1,7 @@
+CREATE_ADDRESS_BOOK address-book-1,user1@gmail.com
+ADD_CONTACT address-book-1,John,Doe,9876543210,Street1,Street2,Bengaluru,KA,India,560034
+ADD_CONTACT address-book-1,Mary,Doe,9833312345,Street1,Street2,Bengaluru,KA,India,560034
+SEARCH_CONTACT NAME address-book-1 John
+SEARCH_CONTACT NAME address-book-1 Do
+SEARCH_CONTACT PHONE_NUMBER address-book-1 98333
+SEARCH_CONTACT GENERIC address-book-1 Doe
